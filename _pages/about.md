@@ -32,7 +32,7 @@ I’m Yejin Kwak, a computational biology researcher with a passion for understa
 
 I received my Bachelor's degree in Biomedical Convergence Engineering (Data Science track) and my Master's degree in Information Convergence Engineering (Bioinformatics track) from [Pusan National University](https://www.pusan.ac.kr/eng/Main.do), where I joined the [Computational Omics Laboratory](https://pnucolab.com). There, I began working on problems at the intersection of `bioinformatics`, `spatial biology` and `machine learning`. I'm currently continuing my research as an associated researcher in the same lab.
 
-My main research interests include `gene regulation`, `spatial tissue architecture`, and the `computational tools` that help us make sense of them. I especially enjoy developing methods and workflows that bridge the gap between raw data and biological insight.
+My main research interests include `spatial omics`, `gene regulation`, and the `computational tools` that help us make sense of them. I especially enjoy developing methods and workflows that bridge the gap between raw data and biological insight.
 
 Outside of research, you’ll often find me organizing scientific workshops, exploring cafés, dancing to anything with a beat, singing a little too enthusiastically, or sketching ideas for research tools that don’t yet exist.
 
