@@ -9,9 +9,9 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   #more_info: >
-    #<p>555 your office number</p>
-    #<p>123 your address street</p>
-    #<p>Your City, State 12345</p>
+  #<p>555 your office number</p>
+  #<p>123 your address street</p>
+  #<p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -37,4 +37,3 @@ My main research interests include `gene regulation`, `spatial tissue architectu
 Outside of research, you’ll often find me organizing scientific workshops, exploring cafés, dancing to anything with a beat, singing a little too enthusiastically, or sketching ideas for research tools that don’t yet exist.
 
 Feel free to reach out if you'd like to collaborate, talk about science, or just say hi! ✨
-
