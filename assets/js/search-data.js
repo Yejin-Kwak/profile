@@ -440,16 +440,22 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+              window.location.href = "/al-folio/news/announcement_5/";
+            },},{id: "news-i-completed-my-bachelor-s-degree-in-biomedical-convergence-engineering-at-pusan-national-university",
+          title: 'I completed my Bachelor’s degree in Biomedical Convergence Engineering at Pusan National University....',
+          description: "",
+          section: "News",},{id: "news-i-started-a-research-internship-at-the-german-cancer-research-center-dkfz-in-heidelberg-2023-12",
+          title: 'I started a research internship at the German Cancer Research Center (DKFZ) in...',
+          description: "",
+          section: "News",},{id: "news-i-started-a-research-internship-at-the-institute-for-basic-science-ibs-center-for-genome-engineering-in-south-korea-2025-01",
+          title: 'I started a research internship at the Institute for Basic Science (IBS) Center...',
+          description: "",
+          section: "News",},{id: "news-i-completed-my-master-s-degree-in-information-convergence-engineering-bioinformatics-track-at-pusan-national-university-after-graduation-i-started-working-as-an-associated-researcher-at-the-computational-omics-laboratory",
+          title: 'I completed my Master’s degree in Information Convergence Engineering (Bioinformatics track) at Pusan...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
