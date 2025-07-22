@@ -7,7 +7,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   #more_info: >
     #<p>555 your office number</p>
     #<p>123 your address street</p>
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-`안녕하세요!` (that's Korean for “Hi!” 👋)  
+**안녕하세요!** (that's Korean for “Hi!” 👋)  
 I’m Yejin Kwak, a computational biology researcher with a passion for understanding complex cellular systems through single-cell and spatial omics technologies.
 
 I received my Bachelor's degree in Biomedical Convergence Engineering (Data Science track) and my Master's degree in Information Convergence Engineering (Bioinformatics track) from [Pusan National University](https://www.pusan.ac.kr/eng/Main.do), where I joined the [Computational Omics Laboratory](https://pnucolab.com). There, I began working on problems at the intersection of `bioinformatics`, `spatial biology` and `machine learning`. I'm currently continuing my research as an associated researcher in the same lab.
