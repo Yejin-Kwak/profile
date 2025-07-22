@@ -37,3 +37,4 @@ My main research interests include `gene regulation`, `spatial tissue architectu
 Outside of research, you’ll often find me organizing scientific workshops, exploring cafés, dancing to anything with a beat, singing a little too enthusiastically, or sketching ideas for research tools that don’t yet exist.
 
 Feel free to reach out if you'd like to collaborate, talk about science, or just say hi! ✨
+
