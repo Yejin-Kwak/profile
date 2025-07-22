@@ -440,11 +440,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_5/";
             },},{id: "news-i-completed-my-bachelor-s-degree-in-biomedical-convergence-engineering-at-pusan-national-university",
           title: 'I completed my Bachelor’s degree in Biomedical Convergence Engineering at Pusan National University....',
           description: "",
