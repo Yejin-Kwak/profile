@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/al-folio/books/the_godfather/";
-            },},{id: "news-completed-b-s-in-biomedical-convergence-engineering-pusan-national-university",
-          title: 'Completed B.S. in Biomedical Convergence Engineering, Pusan National University. 🎓',
+            },},{id: "news-completed-b-s-in-biomedical-convergence-engineering-data-science-pnu",
+          title: 'Completed B.S. in Biomedical Convergence Engineering (Data Science), PNU. 🎓',
           description: "",
           section: "News",},{id: "news-research-intern-german-cancer-research-center-dkfz-heidelberg-2023-12",
           title: 'Research intern, German Cancer Research Center (DKFZ), Heidelberg, 🇩🇪. (~2023.12)',
@@ -400,8 +400,8 @@ ninja.data = [{
           section: "News",},{id: "news-research-intern-institute-for-basic-science-ibs-center-for-genome-engineering-2025-01",
           title: 'Research intern, Institute for Basic Science (IBS) Center for Genome Engineering, 🇰🇷.(~2025.01)',
           description: "",
-          section: "News",},{id: "news-completed-m-s-in-information-convergence-engineering-bioinformatics-pusan-national-university",
-          title: 'Completed M.S. in Information Convergence Engineering (Bioinformatics), Pusan National University. 🎓',
+          section: "News",},{id: "news-completed-m-s-in-information-convergence-engineering-bioinformatics-pnu",
+          title: 'Completed M.S. in Information Convergence Engineering (Bioinformatics), PNU. 🎓',
           description: "",
           section: "News",},{id: "news-started-work-as-associated-researcher-computational-omics-laboratory",
           title: 'Started work as Associated Researcher, Computational Omics Laboratory. 🧬',
