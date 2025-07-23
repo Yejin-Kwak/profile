@@ -10,3 +10,14 @@ description: Want to know more? You can check out my CV 👐🏻
 #toc:
 #sidebar: left
 ---
+
+<div style="text-align: center; margin-top: 2em;">
+  <a
+    href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="btn btn--primary"
+  >
+    <i class="fa-solid fa-file-pdf"></i> Download CV
+  </a>
+</div>
