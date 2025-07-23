@@ -18,6 +18,6 @@ description: Want to know more? You can check out my CV 👐🏻
     rel="noopener noreferrer"
     class="float-right"
   >
-    <i class="fa-solid fa-file-pdf"></i>
+    <i class="fa-solid fa-file-pdf"></i> Download CV
   </a>
 </div>
