@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/publications/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "Want to know more? You can check out my CV 👐🏻",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/al-folio/cv/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
