@@ -63,13 +63,15 @@ layout: default
       <h2 style="margin-top: 40px;">
         <a href="{{ '/blog/' | relative_url }}" style="color: inherit">CV</a>
       </h2>
-      <h1>Want to know more? You can check out my CV 👐🏻</h1>
+      <h4>Want to know more? You can check out my CV 👐🏻</h4>
       {% if page.cv_pdf %}
         <a
           {% if page.cv_pdf contains '://' %}
             href="{{ page.cv_pdf }}"
+            <span>?</span>
           {% else %}
             href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+            <span>!</span>
           {% endif %}
           target="_blank"
           rel="noopener noreferrer"
