@@ -69,19 +69,21 @@ layout: default
     <!-- CV -->
     {% if page.CV and page.CV.enabled %}
       <h2 style="margin-top: 40px;">
-        <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" style="color: inherit">CV</a>
+        <a href="{{ page.CV.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" style="color: inherit">CV</a>
       </h2>
-      <h6>Want to know more? You can check out my CV 👐🏻</h6>
-      {% if page.CV.cv_pdf %}
-        <a
-          href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="float-right"
-        >
-          <i class="fa-solid fa-file-pdf"></i>
-        </a>
-      {% endif -%}
+      <div style="display: flex; align-items: center; justify-content: space-between;">
+        <h6 style="margin: 0;">Want to know more? You can check out my CV 👐🏻</h6>
+        {% if page.CV.cv_pdf %}
+          <a
+            href="{{ page.CV.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+            target="_blank"
+            rel="noopener noreferrer"
+            style="margin-left: 1em; text-decoration: none;"
+          >
+            <i class="fa-solid fa-file-pdf fa-lg"></i>
+          </a>
+        {% endif %}
+      </div>
     {%- endif %}
 
     <!-- Social -->
