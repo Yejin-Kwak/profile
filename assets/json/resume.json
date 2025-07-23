@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yejin Kwak",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "ng4812@pusan.ac.kr",
     "phone": "(912) 123-4567",
     "url": "https://alshedivat.github.io/al-folio/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
@@ -151,13 +151,23 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Korean",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Basic",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
