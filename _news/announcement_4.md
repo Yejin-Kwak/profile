@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I completed my Master’s degree in Information Convergence Engineering (Bioinformatics track) at Pusan National University. 🧬
-After graduation, I started working as an associated researcher at the Computational Omics Laboratory.
+Completed M.S. in Information Convergence Engineering (Bioinformatics), Pusan National University. 🎓

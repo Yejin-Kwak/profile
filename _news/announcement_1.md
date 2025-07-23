@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I completed my Bachelor’s degree in Biomedical Convergence Engineering at Pusan National University. 🎓
+Completed B.S. in Biomedical Convergence Engineering, Pusan National University. 🎓
