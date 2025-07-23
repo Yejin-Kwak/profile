@@ -58,6 +58,28 @@ layout: default
       {% endif %}
     -->
 
+    <!-- CV -->
+    {% if page.CV and page.CV.enabled %}
+      <h2 style="margin-top: 40px;">
+        <a href="{{ '/blog/' | relative_url }}" style="color: inherit">CV</a>
+      </h2>
+      <h1>Want to know more? You can check out my CV 👐🏻</h1>
+      {% if page.cv_pdf %}
+        <a
+          {% if page.cv_pdf contains '://' %}
+            href="{{ page.cv_pdf }}"
+          {% else %}
+            href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+          {% endif %}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="float-right"
+        >
+          <i class="fa-solid fa-file-pdf"></i>
+        </a>
+      {% endif -%}
+    {%- endif %}
+
     <!-- Selected papers -->
     {% if page.selected_papers %}
       <h2 style="margin-top: 40px;">
