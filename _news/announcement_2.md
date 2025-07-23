@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Research intern, German Cancer Research Center (DKFZ), Heidelberg, 🇩🇪. (~2023.12)
+Research intern, German Cancer Research Center (DKFZ), Heidelberg, 🇩🇪 (~2023.12)
