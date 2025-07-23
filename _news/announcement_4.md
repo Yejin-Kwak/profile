@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed M.S. in Information Convergence Engineering (Bioinformatics), Pusan National University. 🎓
+Completed M.S. in Information Convergence Engineering (Bioinformatics), PNU. 🎓

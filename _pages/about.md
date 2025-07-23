@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 🧬 *Associated Researcher* at [Computational Omics Laboratory](https://pnucolab.com)
-
+subtitle: 🧬 PhD Student | German Cancer Research Center (DKFZ)
 profile:
   align: right
   image: prof_pic.png
