@@ -27,7 +27,7 @@ latest_posts:
 ---
 
 **안녕하세요!** (that's Korean for “Hi!” 👋)  
-I’m Yejin Kwak, a computational biology researcher with a passion for understanding complex cellular systems through single-cell and spatial omics technologies.
+I’m **Yejin Kwak**, a computational biology researcher with a passion for understanding complex cellular systems through single-cell and spatial omics technologies.
 
 I completed my B.S. and M.S. at [Pusan National University](https://www.pusan.ac.kr/eng/Main.do), where I joined the [Computational Omics Laboratory](https://pnucolab.com). I now work there as an associated researcher, focusing on `bioinformatics`, `spatial biology` and `machine learning`.
 
