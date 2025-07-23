@@ -69,33 +69,14 @@ layout: default
     <!-- CV -->
     {% if page.CV and page.CV.enabled %}
       <div style="text-align: center; margin-top: 2em;">
-        <p style="font-size: 1.1rem; display: inline-flex; align-items: center; gap: 0.5em;">
-          Want to know more? You can check out my CV 👐🏻
-          {% if page.CV.cv_pdf %}
-            <a
-              href="{{ page.CV.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
-              target="_blank"
-              rel="noopener noreferrer"
-              style="
-                display: inline-flex;
-                align-items: center;
-                gap: 0.3em;
-                background-color: #f44336;
-                color: white;
-                padding: 6px 12px;
-                border-radius: 4px;
-                text-decoration: none;
-                font-weight: 500;
-                font-size: 0.9rem;
-                transition: background-color 0.2s ease;
-              "
-              onmouseover="this.style.backgroundColor='#d32f2f'"
-              onmouseout="this.style.backgroundColor='#f44336'"
-            >
-              <i class="fa-solid fa-file-pdf"></i> PDF
-            </a>
-          {% endif %}
-        </p>
+        {% if page.CV.cv_pdf %}
+          <a
+            href="{{ page.CV.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+            style="font-size: 1.1rem; display: inline-flex; align-items: center; gap: 0.5em;"
+          >
+            Want to know more? You can check out my CV 👐🏻
+          </a>
+        {% endif %}
       </div>
     {%- endif %}
 
